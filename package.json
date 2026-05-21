@@ -1,0 +1,19 @@
+{
+  "name": "idle-events",
+  "version": "1.0.0",
+  "description": "Uses rxjs to emit events when idling starts and stops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Corso",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.8.2",
+    "typescript": "^6.0.3"
+  },
+  "type": "module",
+  "repository": {
+    "url": "https://github.com/leoCorso/idle-events"
+  }
+}
